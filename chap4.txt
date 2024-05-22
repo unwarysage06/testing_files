@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ok man I am changing experiment because why not.
+=======
+Forget This shit I want to change this is that cool.
+>>>>>>> e250992 (watch your profonity.)
